@@ -23,6 +23,7 @@ h1 {
   font-size: 32px;
 }
 
-h3 {
-
+.prices {
+  color: blue;
+  font-weight: bold;
 }
