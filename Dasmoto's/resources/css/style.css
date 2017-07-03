@@ -1,10 +1,12 @@
 h1 {
+  /*background image wont appear if selected from local files*/
   background-image: url("resources/images/pattern.jpg");
   text-align: center;
   font-size: 100px;
   color: khaki;
 }
 
+/*each class selector is dedicated to each html section.*/
 .brushes h2 {
   background-color: mediumspringgreen;
   color: white;
@@ -23,6 +25,7 @@ h1 {
   font-size: 32px;
 }
 
+/*encompasses all prices for brushes, frames, and paint*/
 .prices {
   color: blue;
   font-weight: bold;
